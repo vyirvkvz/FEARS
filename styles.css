@@ -1,0 +1,36 @@
+hmtl{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header, footer {
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+body{
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+    background-color: gainsboro;
+}
+#largeImage {
+    display: block;
+    width: 1000px;
+    height: 400px;
+}
+#gifs {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+#center{
+    text-align: center;
+}
+nav ul{
+    text-align: center;
+        padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
